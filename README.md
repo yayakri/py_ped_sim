@@ -4,6 +4,10 @@
 
 # Overview
 `py_ped_sim` 
+**This code is by Miguel Guardado mostly, I added script for work with multiple chromosomes and described the process of genome simulation on the basis of pedigree structure. If you're interested in it, you can go to file named 'README_Pedigree simulation with offspring genome generation.txt'**
+
+
+
 We have developed a python command-line-based tool called py_ped_sim that facilitates the simulation of pedigree 
 structures and the genomes of individuals in a pedigree. py_ped_sim represents pedigrees as directed acyclic graphs, 
 enabling conversion between standard pedigree formats and integration with the forward population genetic simulator, SLiM. 
